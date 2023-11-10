@@ -1,0 +1,20 @@
+[
+	{
+		"nombre": "mariano",
+		"apellido": "lopez",
+		"edad": 26,
+		"curso": "backend"
+	},
+	{
+		"nombre": "maria",
+		"apellido": "asus",
+		"edad": 27,
+		"curso": "java"
+	},
+	{
+		"nombre": "mauro",
+		"apellido": "barrera",
+		"edad": 20,
+		"curso": "frontend"
+	}
+]
